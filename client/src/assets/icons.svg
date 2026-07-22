@@ -1,0 +1,68 @@
+<svg xmlns="http://www.w3.org/2000/svg"
+     width="128"
+     height="128"
+     viewBox="0 0 64 64"
+     fill="none">
+
+  <!-- Document -->
+  <path
+    d="M14 6H40L50 16V52C50 55.3 47.3 58 44 58H14C10.7 58 8 55.3 8 52V12C8 8.7 10.7 6 14 6Z"
+    stroke="white"
+    stroke-width="3.5"
+    stroke-linecap="round"
+    stroke-linejoin="round"/>
+
+  <!-- Folded Corner -->
+  <path
+    d="M40 6V16H50"
+    stroke="white"
+    stroke-width="3.5"
+    stroke-linecap="round"
+    stroke-linejoin="round"/>
+
+  <!-- Circuit Nodes -->
+  <circle cx="22" cy="22" r="2.7" fill="none" stroke="white" stroke-width="2.2"/>
+  <circle cx="36" cy="22" r="2.7" fill="none" stroke="white" stroke-width="2.2"/>
+  <circle cx="22" cy="44" r="2.7" fill="none" stroke="white" stroke-width="2.2"/>
+  <circle cx="36" cy="44" r="2.7" fill="none" stroke="white" stroke-width="2.2"/>
+
+  <!-- Center Node -->
+  <circle cx="29" cy="33" r="2.3" fill="white"/>
+
+  <!-- Circuit Paths -->
+  <path
+    d="M22 24.7V29H26.5V33"
+    stroke="white"
+    stroke-width="2.3"
+    stroke-linecap="round"
+    stroke-linejoin="round"/>
+
+  <path
+    d="M36 24.7V29H31.5V33"
+    stroke="white"
+    stroke-width="2.3"
+    stroke-linecap="round"
+    stroke-linejoin="round"/>
+
+  <path
+    d="M29 35.3V38H24.5V41.3"
+    stroke="white"
+    stroke-width="2.3"
+    stroke-linecap="round"
+    stroke-linejoin="round"/>
+
+  <path
+    d="M29 35.3V38H33.5V41.3"
+    stroke="white"
+    stroke-width="2.3"
+    stroke-linecap="round"
+    stroke-linejoin="round"/>
+
+  <!-- Horizontal Connector -->
+  <path
+    d="M25.5 33H32.5"
+    stroke="white"
+    stroke-width="2.3"
+    stroke-linecap="round"/>
+
+</svg>

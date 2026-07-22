@@ -1,0 +1,42 @@
+<svg xmlns="http://www.w3.org/2000/svg"
+     viewBox="0 0 64 64"
+     fill="none">
+
+  <g stroke="white"
+     stroke-width="3.8"
+     stroke-linecap="round"
+     stroke-linejoin="round">
+
+    <!-- Document -->
+    <path d="M14 6H40L50 16V52C50 55.3 47.3 58 44 58H14C10.7 58 8 55.3 8 52V12C8 8.7 10.7 6 14 6Z"/>
+
+    <!-- Fold -->
+    <path d="M40 6V16H50"/>
+
+    <!-- Top Left -->
+    <circle cx="22" cy="22" r="2.8"/>
+
+    <!-- Top Right -->
+    <circle cx="36" cy="22" r="2.8"/>
+
+    <!-- Bottom Left -->
+    <circle cx="22" cy="44" r="2.8"/>
+
+    <!-- Bottom Right -->
+    <circle cx="36" cy="44" r="2.8"/>
+
+    <!-- Center -->
+    <circle cx="29" cy="33" r="1.8" fill="white" stroke="none"/>
+
+    <!-- Circuit -->
+    <path d="M22 25V29H26V33"/>
+    <path d="M36 25V29H32V33"/>
+    <path d="M29 35V38H24V41"/>
+    <path d="M29 35V38H34V41"/>
+
+    <!-- AI Cross -->
+    <path d="M25 33H33"/>
+
+  </g>
+
+</svg>

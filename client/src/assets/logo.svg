@@ -1,0 +1,107 @@
+<svg xmlns="http://www.w3.org/2000/svg"
+     width="420"
+     height="90"
+     viewBox="0 0 420 90"
+     fill="none">
+
+  <!-- ================= ICON ================= -->
+
+  <g transform="translate(8,8)">
+
+    <!-- Document -->
+    <path
+      d="M14 6H40L50 16V52C50 55.3 47.3 58 44 58H14C10.7 58 8 55.3 8 52V12C8 8.7 10.7 6 14 6Z"
+      stroke="white"
+      stroke-width="3.8"
+      stroke-linecap="round"
+      stroke-linejoin="round"/>
+
+    <!-- Fold -->
+    <path
+      d="M40 6V16H50"
+      stroke="white"
+      stroke-width="3.8"
+      stroke-linecap="round"
+      stroke-linejoin="round"/>
+
+    <!-- Circuit Nodes -->
+    <circle cx="22" cy="22" r="2.8" stroke="white" stroke-width="2.5"/>
+    <circle cx="36" cy="22" r="2.8" stroke="white" stroke-width="2.5"/>
+    <circle cx="22" cy="44" r="2.8" stroke="white" stroke-width="2.5"/>
+    <circle cx="36" cy="44" r="2.8" stroke="white" stroke-width="2.5"/>
+
+    <!-- Center -->
+    <circle cx="29" cy="33" r="2.2" fill="white"/>
+
+    <!-- Circuit -->
+    <path d="M22 25V29H26V33"
+          stroke="white"
+          stroke-width="2.4"
+          stroke-linecap="round"
+          stroke-linejoin="round"/>
+
+    <path d="M36 25V29H32V33"
+          stroke="white"
+          stroke-width="2.4"
+          stroke-linecap="round"
+          stroke-linejoin="round"/>
+
+    <path d="M29 35V38H24V41"
+          stroke="white"
+          stroke-width="2.4"
+          stroke-linecap="round"
+          stroke-linejoin="round"/>
+
+    <path d="M29 35V38H34V41"
+          stroke="white"
+          stroke-width="2.4"
+          stroke-linecap="round"
+          stroke-linejoin="round"/>
+
+    <path d="M25 33H33"
+          stroke="white"
+          stroke-width="2.4"
+          stroke-linecap="round"/>
+
+  </g>
+
+  <!-- ================= BRAND NAME ================= -->
+
+  <text
+      x="82"
+      y="39"
+      fill="white"
+      font-size="28"
+      font-family="Segoe UI, Arial, sans-serif"
+      font-weight="700">
+
+      IntelliDocs
+
+  </text>
+
+  <text
+      x="236"
+      y="39"
+      fill="white"
+      font-size="28"
+      font-family="Segoe UI, Arial, sans-serif"
+      font-weight="600">
+
+      AI
+
+  </text>
+
+  <!-- ================= TAGLINE ================= -->
+
+  <text
+      x="82"
+      y="62"
+      fill="#9CA3AF"
+      font-size="12"
+      font-family="Segoe UI, Arial, sans-serif">
+
+      Intelligent Document Understanding
+
+  </text>
+
+</svg>
